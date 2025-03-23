@@ -1,24 +1,24 @@
-Cement Strength Predictor - Flutter App
-
-📌 Overview
-
+**Cement Strength Predictor - Flutter App
+**
+**📌 Overview
+**
 Cement Strength Predictor is a Flutter-based mobile application that utilizes machine learning to predict the compressive strength of cement based on various input parameters. This app helps civil engineers, researchers, and construction professionals make data-driven decisions about cement quality.
 
-🎯 Features
-
+**🎯 Features
+**
 User-friendly UI for inputting cement composition data
 
 Real-time predictions using a trained machine learning model
 
-🛠️ Tech Stack
-
+**🛠️ Tech Stack
+**
 Flutter (Frontend)
 
 Dart (Programming language)
 
 
-📥 Installation
-
+**📥 Installation
+**
 Prerequisites
 
 Flutter SDK installed (Get Flutter)
@@ -42,8 +42,8 @@ Run the app on an emulator or a real device:
 
 flutter run
 
-📊 Model Details
-
+**📊 Model Details
+**
 The cement strength prediction model is trained on data containing:
 
 Cement composition (e.g., Cement, Fly Ash, Water, Superplasticizer, etc.)
@@ -52,8 +52,8 @@ Curing age (in days)
 
 Environmental factors (optional)
 
-🚀 Future Improvements
-
+**🚀 Future Improvements
+**
 Implement a more advanced ML model for better accuracy
 
 Add historical data visualization
